@@ -6,6 +6,7 @@
 /**
  * @author Hiu.Kwok
  * 
+ * Reference material: Reactive Programming with Rxjava (Tomasz Nukiewicz, Ben Christensen) 
  * 
  * 
  */
